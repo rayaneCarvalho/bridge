@@ -13,7 +13,7 @@ public abstract class Delivery {
         this.formaPagamento = formaPagamento;
     }
 
-    public void setFormaParamento(float compra) {
+    public void setFormaPagamento(float compra) {
         this.compra = compra;
     }
 
