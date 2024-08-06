@@ -1,4 +1,6 @@
-package org.example;
+package org.example.abstracao;
+
+import org.example.implementacao.FormaPagamento;
 
 public abstract class Delivery {
     protected FormaPagamento formaPagamento;

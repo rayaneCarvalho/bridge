@@ -1,6 +1,8 @@
-package org.example;
+package org.example.abstracao;
 
-public class Propria extends Delivery{
+import org.example.abstracao.Delivery;
+
+public class Propria extends Delivery {
 
     private float comissao;
 

@@ -1,6 +1,8 @@
-package org.example;
+package org.example.abstracao;
 
-public class Ifood extends Delivery{
+import org.example.abstracao.Delivery;
+
+public class Ifood extends Delivery {
 
     private float custoOperacao;
 
